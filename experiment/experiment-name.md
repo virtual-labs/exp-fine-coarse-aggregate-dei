@@ -1,1 +1,1 @@
-## Soundness of coarse aggregates.
+## Soundness test of aggregates

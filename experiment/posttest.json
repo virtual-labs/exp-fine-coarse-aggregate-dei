@@ -2,38 +2,74 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Which of the following can be a reason for soundness loss in aggregates?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Low temperature",
+        "b": "High humidity",
+        "c": "Chemical reaction",
+        "d": "All of the above"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "d": "All of the above"
       },
-      "correctAnswer": "a",
+      "correctAnswer": "d",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "What is the recommended maximum soundness loss for fine aggregates?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "3%",
+        "b": "5%",
+        "c": "10%",
+        "d": "15%"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "b": "5%"
+      },
+      "correctAnswer": "b",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "How is the soundness test typically conducted on aggregates?",
+      "answers": {
+        "a": "Sieve analysis ",
+        "b": "Water absorption test",
+        "c": "Sodium sulphate or magnesium sulphate solution",
+        "d": "Compaction test"
+      },
+      "explanations": {
+        "c": "Sodium sulphate or magnesium sulphate solution "
       },
       "correctAnswer": "c",
-      "difficulty": "beginner"
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "What precautions should be taken during the soundness test to ensure accurate results?",
+      "answers": {
+        "a": "Conduct the test in a humid environment ",
+        "b": "Ensure the solution concentration is low ",
+        "c": "Use larger-sized aggregates for testing",
+        "d": "Control the temperature during the test "
+      },
+      "explanations": {
+        "d": "Control the temperature during the test "
+      },
+      "correctAnswer": "d",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "What factors can influence the results of the soundness test for aggregates?",
+      "answers": {
+        "a": "Particle shape",
+        "b": "Moisture content ",
+        "c": "Aggregate size",
+        "d": "All of the above "
+      },
+      "explanations": {
+        "d": "All of the above "
+      },
+      "correctAnswer": "d",
+      "difficulty": "advanced"
     }
   ]
 }

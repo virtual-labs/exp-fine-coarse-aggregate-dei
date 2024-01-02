@@ -1,1 +1,1 @@
-### To determine the soundness of coarse aggregates.
+### To determine the soundness of the fine and coarse aggregate.
