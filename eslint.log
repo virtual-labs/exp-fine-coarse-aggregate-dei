@@ -1,0 +1,11 @@
+
+/home/runner/work/exp-fine-coarse-aggregate-dei/exp-fine-coarse-aggregate-dei/experiment/simulation/js/main.js
+  4:39  warning  'evt' is defined but never used  no-unused-vars
+  8:40  warning  'evt' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-fine-coarse-aggregate-dei/exp-fine-coarse-aggregate-dei/experiment/simulation/js/step1.js
+   44:39  warning  'evt' is defined but never used  no-unused-vars
+  150:40  warning  'evt' is defined but never used  no-unused-vars
+
+✖ 4 problems (0 errors, 4 warnings)
+
