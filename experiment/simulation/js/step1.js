@@ -4,6 +4,7 @@
 
 const step1 = document.querySelector("#step1");
 const instructionsStep1 = document.querySelector("#instructionsStep1");
+const stepNumber = document.querySelector("#step-number");
 
 // images of step1
 const png1Step1 = document.querySelector("#png1Step1");
@@ -44,6 +45,7 @@ const nextToStep2 = document.querySelector("#nextToStep2");
 addEventListener("DOMContentLoaded", (evt) => {
     step1.style.visibility = "visible";
     instructionsStep1.textContent = "Assemble the sieves in descending order with the largest aperture size sieve at the top and the smallest at the bottom. Place a pan below the bottom most sieve.";
+    stepNumber.textContent = "1";
     png1Step1.style.visibility = "visible";
     assemBtnStep1.style.visibility = "visible";
     arr1Step1.style.visibility = "visible";
@@ -58,6 +60,7 @@ assemBtnStep1.addEventListener("click", (evt) => {
 
     setTimeout(() => {
         instructionsStep1.textContent = "Pour the aggregates into the sieve stack."
+        stepNumber.textContent = "2.1";
         gif1Step1.style.visibility = "hidden";
         png2Step1.style.visibility = "visible";
         arr2Step1.style.visibility = "visible";
@@ -75,6 +78,7 @@ trans1Step1.addEventListener("click", (evt) => {
     setTimeout(()=>{
         gif2Step1.style.visibility = "hidden";
         instructionsStep1.textContent = "Cover the sieve stack with the lid and place it on the sieve shaker. Start the sieve shaker and wait for sometime."
+        stepNumber.textContent = "2.2";
         png3Step1.style.visibility = "visible";
         arr3Step1.style.visibility = "visible";
         trans2Step1.style.visibility = "visible";
@@ -129,6 +133,7 @@ trans5Step1.addEventListener("click", (evt) =>{
 
     setTimeout(()=>{
         instructionsStep1.textContent = "Remove the sieves from the sieve shaker and note down the aggregates retained on each sieve.";
+        stepNumber.textContent = "2.3";
         arr7Step1.style.visibility = "visible";
         trans6Step1.style.visibility = "visible";
     }, 5000);
@@ -148,5 +153,5 @@ trans6Step1.addEventListener("click", (evt) => {
 });
 
 nextToStep2.addEventListener("click", (evt) => {
-    window.location.href = "./step2.html";
+    window.location.href = "./step3.html";
 });
