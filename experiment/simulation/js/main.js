@@ -6,5 +6,5 @@ addEventListener("DOMContentLoaded", (evt) => {
 })
 
 nextToStep1.addEventListener("click", (evt) => {
-    window.location.href = "./steps-files/step1.html";
+    window.location.href = "./problemselection.html";
 })
