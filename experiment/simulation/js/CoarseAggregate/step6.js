@@ -1,4 +1,4 @@
-function gif12() {
+function gif6a() {
     document.getElementById("fourteen").style.visibility = "hidden";
     document.getElementById("gif12").style.visibility = "visible"; 
     document.getElementById("transbox12").style.visibility = "hidden";
