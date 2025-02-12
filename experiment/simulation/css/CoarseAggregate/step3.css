@@ -95,7 +95,7 @@
     z-index: 1;
   }
 
-  #arrow1 {
+  #arrow1, #arrow5, #arrow6, #arrow7, #arrow8, #arrow9  {
     position: absolute;
     top: 230px;
     left: 450px;
@@ -128,7 +128,7 @@
     top: 150px;
   }
   
-  #nine {
+  #nine, #hi, #hii, #hiii, #hiiii, #hiiiii {
     position: absolute;
     left: 54px;
     top: 150px;
@@ -164,7 +164,7 @@
     top: 150px;
   }
   
-  #gif10 {
+  #gif10, #gif11, #gif12, #gif13, #gif14, #gif15 {
     position: absolute;
     left: 54px;
     top: 150px;
@@ -204,6 +204,33 @@
     position: absolute;
     left: 250px;
     top: 242px;
+  }
+
+  #transbox11 {
+    border: 2px solid black;
+    height: 110px;
+    width: 177px;
+    position: absolute;
+    left: 495px;
+    top: 174px;
+  }
+
+  #transbox12{
+    border: 2px solid black;
+    height: 110px;
+    width: 177px;
+    position: absolute;
+    left: 513px;
+    top: 174px;
+  }
+
+  #transbox13, #transbox14, #transbox15{
+    border: 2px solid black;
+    height: 110px;
+    width: 177px;
+    position: absolute;
+    left: 534px;
+    top: 165px;
   }
   
   .content28 button {
