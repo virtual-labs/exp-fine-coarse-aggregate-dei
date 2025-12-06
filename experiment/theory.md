@@ -1,25 +1,53 @@
-### Theory
 
-* The purpose of the aggregate soundness test is to evaluate the aggregate’s resistance to weathering and chemical attack. 
+## Theory
 
-* Concrete constructions may break sooner if the aggregate is not resistant to weathering and chemical attack. The aggregate soundness test aids in guaranteeing that the aggregate utilised in building is of high calibre and appropriate for the intended function.  
+**Soundness** is the property of aggregates to resist excessive volume changes and disintegration when subjected to weathering conditions.
 
-* An aggregate sample is repeatedly submerged in a solution of either magnesium sulphate or sodium sulphate for the soundness test. The water-permeable pores in the aggregate start to generate salt crystals as a result of this process. The internal pressures created by the creation of these crystals press against the aggregate pores, causing the aggregate to crack. The aggregate is sieved to ascertain the percentage of material loss following a predetermined number of repetitions of submerging and drying.
+This test determines the resistance to disintegration of aggregates by saturated solutions of sodium sulphate or magnesium sulphate. It furnishes information helpful in judging soundness when service records are not available.
 
-## Apparatus
+### Purpose
 
-1. Fine and coarse aggregate samples 
+To evaluate aggregate's resistance to weathering and chemical attack, ensuring durability and quality in concrete construction.
 
-2. Containers for immersing aggregate samples 
+### Mechanism
 
-3. Drying oven capable of being maintained between 105 °C and 110°C  
+The test simulates weathering action through salt crystallization in aggregate pores:
 
-4. Sodium sulphate solution or Magnesium sulphate solution 
+### Process Steps
 
-5. Weighing balance  
+1. **Salt Penetration**: Saturated sulfate solution penetrates aggregate pores during immersion
+2. **Crystallization**: During drying (105-110°C), salt crystals form within pores
+3. **Expansion**: Upon re-immersion, salt crystals rehydrate and expand, creating internal pressure
+4. **Disintegration**: Repeated cycles cause cracking, splitting, and breakdown of weak aggregates
 
-6. Sieves :- 
+### Simulated Conditions
 
-    * For fine aggregates- 150 microns, 300 microns, 600 microns, 1.18mm, 2.36mm, 4.00mm and 4.75mm  
+This process simulates:
+- Freezing and thawing cycles
+- Wet-dry cycles
+- Marine environment exposure
+- Chemical attack from sulfate-bearing soils
 
-    * For coarse aggregates- 8 mm, 10 mm, 12.5mm, 16mm, 20mm, 25mm, 31.5mm, 40mm, 50mm, 63mm and 80mm  
+### Calculations
+
+#### Individual Fraction Loss
+```
+Percentage Loss = [(W₁ - W₂) / W₁] × 100
+```
+
+**Where:**
+- W₁ = Initial weight of fraction before test (g)
+- W₂ = Final weight retained on specified sieve after test (g)
+
+#### Weighted Average Loss
+```
+Weighted Average Loss (%) = Σ(Pᵢ × Lᵢ) / 100
+```
+
+**Where:**
+- Pᵢ = Percentage of each size fraction in original sample
+- Lᵢ = Percentage loss of that size fraction
+
+### Interpretation
+
+Lower percentage loss values indicate better soundness and greater resistance to weathering conditions. Specifications typically limit the weighted average loss to acceptable thresholds based on aggregate type and intended use.
