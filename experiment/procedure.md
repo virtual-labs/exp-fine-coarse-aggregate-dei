@@ -1,42 +1,89 @@
-## Procedure
 
-### Preparation of test sample for coarse aggregates 
+### A. Soundness of Coarse Aggregates
 
-1. After passing the coarse aggregate through a 4.75 mm IS sieve, dry the material that remains on the sieve in an oven set to 105 to 1100 degrees Celsius until it reaches a consistent mass. 
+#### Procedure
 
-2. Sort the desiccated material into distinct size segments by utilizing sieves with dimensions of 80 mm, 63 mm, 40 mm, 20 mm, 10 mm, and 4.75 mm. 
+1. **STEP 1 — Sieve Assembly and Analysis**
+   * Click "Assemble" to arrange sieves in descending order with pan at bottom.
+   * Click on "Tray" to pour aggregates into the sieve stack.
+   * Click on "Sieve stack" to place it on the shaker.
+   * Press the "ON" button to start the sieve shaker. Wait for the shaking animation to complete.
+   * Remove sieves and note down the weight of aggregates retained on each sieve (values will be displayed on screen).
+   * Click "Next" to proceed.
 
-3. The sample size must be such that it yields the following number of various sizes, which must be available in amounts of five percent or greater. 
+2. **STEP 2 — Solution Preparation**
+   * Click on "Pan" to place it on the weighing balance.
+   * Press the "TARE" button to reset the balance to zero.
+   * Enter sodium sulphate mass = 215 g.
+   * Enter water volume = 1000 mL (1 litre).
+   * Click "Prepare Solution" to mix. Wait for the animation to complete.
+   * Click "Next Level" to continue.
 
-4. For the test, accurately weigh a sample from each fraction and put it in different containers. 
+3. **STEP 3 — Immersion (Cycle 1 of 5)**
+   * Select the aggregate sample by clicking on it.
+   * Click "Dip" to immerse samples in sodium sulphate solution.
+   * Set immersion time: 16-18 hours at room temperature (default settings shown).
+   * Click "Start Timer" and wait for the timer animation to complete.
+   * Click "Next" when immersion completes.
 
-### Preparation of test sample for fine aggregates  
+4. **STEP 4 — Draining**
+   * Click "Drain" to remove sodium sulphate solution from samples.
+   * Wait for the draining animation to finish.
+   * Click "Next Level" to proceed.
 
-1. The sample should be wet sieved through a nest of IS sieves with a lower 300 micron and an upper 10 mm size. 
+5. **STEP 5 — Oven Drying (First)**
+   * Click on "Oven" to place samples inside.
+   * Set temperature = 110°C and duration = 4-6 hours.
+   * Click "Start Heating". Wait for the drying animation to complete.
+   * Click "Next" when drying finishes.
 
-2. After being retained on a 300 micron sieve and passing a 10 mm sieve, the material is dried and taken for testing. 
+6. **STEP 6 — Cooling**
+   * Click "Remove from Oven" to take out samples.
+   * Set cooling duration = 2-4 hours at room temperature.
+   * Click "Start Cooling Timer". Wait for the animation to complete.
+   * Click "Next Level" to continue.
 
-3. The sample that was previously collected is once more sieved using a variety of sieves, including 600 micron, 300 micron, 2.36 mm, 1.18 mm, and 10 mm. 
+7. **STEP 7 — Repeat Cycles**
+   * A message will appear: "Cycle 1 complete. 4 cycles remaining."
+   * Click "Repeat Cycle" to automatically repeat Steps 3 to 6.
+   * The simulator will show cycle progress (2/5, 3/5, 4/5, 5/5).
+   * After 5 cycles complete, click "Next Level".
 
-4. The sample size that needs to be taken in order to be sieved should give at least 100 g of each of the following sizes. 
+8. **STEP 8 — Final Washing**
+   * Click "Wash" to clean samples.
+   * Set water temperature = 43°C (shown on screen).
+   * Click "Start Washing". Wait for the animation to complete.
+   * Click "Next" to proceed.
 
-5. 100 g of sample from each of the divided fractions should be weighed and put in different test containers.
+9. **STEP 9 — Final Oven Drying**
+   * Click on "Oven" to place washed samples inside.
+   * Set temperature = 110°C and duration = 18-24 hours.
+   * Click "Start Heating". Wait for the final drying animation.
+   * Click "Next Level" when complete.
 
+10. **STEP 10 — Loss Measurement**
+    * Click on the 63-40mm sample icon to select it.
+    * Click "Sieve" to pass it through 31.5mm sieve.
+    * Note the passing weight displayed (Step 10a).
+    * Click on the 40-20mm sample and pass through 16mm sieve (Step 10b).
+    * Click on the 20-10mm sample and pass through 8mm sieve (Step 10c).
+    * Click on the 10-4.75mm sample and pass through 4mm sieve (Step 10d).
+    * Record all passing weights shown on screen.
+    * Click "Calculate" to compute weighted average loss.
+    * The simulator will display the soundness value (should be < 12% for good quality).
+    * Click "Next Level" to view results.
 
-1. Place individual samples in a wire mesh basket and submerge it in the sodium sulphate or magnesium sulphate solution for a minimum of 16 hours and a maximum of 18 hours, making sure the solution covers the samples to a minimum depth of 15 mm. 
+11. **Final — Results and Reset**
+    * Review the summary screen showing:
+      - Loss percentage for each fraction
+      - Weighted average loss
+      - Soundness classification (Pass/Fail)
+    * Click "Reset" to restart or "Exit" to finish.
 
-2. Once the immersion time has ended, take the samples out of the solution, let them drain for fifteen minutes, and then put them in the drying oven. 
+### B. Soundness of Fine Aggregates
 
-3. After the sample reaches a constant mass through drying, take it out of the oven and let it cool to room temperature. 
+#### Procedure
 
-4. Immerse it in the solution as per step 1 after it has cooled once more. 
+**Follow identical steps (STEP 1 to STEP 11) as described above for coarse aggregates.**
 
-5. Until the agreed-upon number of cycles is reached, the alternating soaking and drying process is repeated. This is done in consultation with the seller. 
-
-6. Following the last cycle and sample cooling, wash the sample to remove any remaining sodium sulphate or magnesium sulphate solution. When the barium chloride in the wash water does not react, this can be ascertained. 
-
-7. Following that, weigh each sample fraction after drying it to a constant temperature of 105 to 110  °C. 
-
-8. Utilizing the same sieve that was used to hold the fine aggregates prior to testing. 
-
-9. Use the sieve to sort the coarse aggregate into the right-sized particles. 
+**Note:** The sieve sizes and sample fractions will automatically adjust for fine aggregates in the simulator interface.

@@ -1,4 +1,3 @@
-
 ### Theory
 
 **Soundness** is the property of aggregates to resist excessive volume changes and disintegration when subjected to weathering conditions.
@@ -31,22 +30,20 @@ This process simulates:
 #### Calculations
 
 **Individual Fraction Loss**
-```
-Percentage Loss = [(W₁ - W₂) / W₁] × 100
-```
+
+$$\text{Percentage Loss} = \frac{W_1 - W_2}{W_1} \times 100$$
 
 Where:
-- W₁ = Initial weight of fraction before test (g)
-- W₂ = Final weight retained on specified sieve after test (g)
+- $W_1$ = Initial weight of fraction before test (g)
+- $W_2$ = Final weight retained on specified sieve after test (g)
 
 **Weighted Average Loss**
-```
-Weighted Average Loss (%) = Σ(Pᵢ × Lᵢ) / 100
-```
+
+$$\text{Weighted Average Loss } (\%) = \frac{\sum (P_i \times L_i)}{100}$$
 
 Where:
-- Pᵢ = Percentage of each size fraction in original sample
-- Lᵢ = Percentage loss of that size fraction
+- $P_i$ = Percentage of each size fraction in original sample
+- $L_i$ = Percentage loss of that size fraction
 
 #### Interpretation
 
