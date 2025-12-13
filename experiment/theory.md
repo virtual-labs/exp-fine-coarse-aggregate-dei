@@ -31,19 +31,19 @@ This process simulates:
 
 **Individual Fraction Loss**
 
-<span class="math display">\text{Percentage Loss} = \frac{W_1 - W_2}{W_1} \times 100</span>
+Percentage Loss = (W₁ - W₂) / W₁ × 100
 
 Where:
-- <span class="math inline">W_1</span> = Initial weight of fraction before test (g)
-- <span class="math inline">W_2</span> = Final weight retained on specified sieve after test (g)
+- W₁ = Initial weight of fraction before test (g)
+- W₂ = Final weight retained on specified sieve after test (g)
 
 **Weighted Average Loss**
 
-<span class="math display">\text{Weighted Average Loss } (\%) = \frac{\sum (P_i \times L_i)}{100}</span>
+Weighted Average Loss (%) = Σ(Pᵢ × Lᵢ) / 100
 
 Where:
-- <span class="math inline">P_i</span> = Percentage of each size fraction in original sample
-- <span class="math inline">L_i</span> = Percentage loss of that size fraction
+- Pᵢ = Percentage of each size fraction in original sample
+- Lᵢ = Percentage loss of that size fraction
 
 #### Interpretation
 
