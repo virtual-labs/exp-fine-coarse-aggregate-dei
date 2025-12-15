@@ -1,89 +1,82 @@
+A. Soundness of Coarse Aggregates
 
-### A. Soundness of Coarse Aggregates
+Procedure
 
-#### Procedure
+Step 1: Sieve Assembly and Analysis  
+- Click Assemble to arrange the sieves in descending order with pan at the bottom.  
+- Click the Tray to pour aggregates into the sieve stack.  
+- Click the Sieve stack to place it on the shaker.  
+- Click ON to start the sieve shaker and wait for the shaking to complete.  
+- Observe and note the weight of aggregates retained on each sieve displayed on screen.  
+- Click Next to proceed.
 
-1. **STEP 1 — Sieve Assembly and Analysis**
-   * Click "Assemble" to arrange sieves in descending order with pan at bottom.
-   * Click on "Tray" to pour aggregates into the sieve stack.
-   * Click on "Sieve stack" to place it on the shaker.
-   * Press the "ON" button to start the sieve shaker. Wait for the shaking animation to complete.
-   * Remove sieves and note down the weight of aggregates retained on each sieve (values will be displayed on screen).
-   * Click "Next" to proceed.
+Step 2: Solution Preparation  
+- Click the Pan to place it on the weighing balance.  
+- Click TARE to reset the balance.  
+- Enter sodium sulphate mass as 215 g and water volume as 1000 mL.  
+- Click Prepare Solution and wait for mixing to complete.  
+- Click Next.
 
-2. **STEP 2 — Solution Preparation**
-   * Click on "Pan" to place it on the weighing balance.
-   * Press the "TARE" button to reset the balance to zero.
-   * Enter sodium sulphate mass = 215 g.
-   * Enter water volume = 1000 mL (1 litre).
-   * Click "Prepare Solution" to mix. Wait for the animation to complete.
-   * Click "Next Level" to continue.
+Step 3: Immersion (Cycle 1 of 5)  
+- Click on the aggregate sample to select it.  
+- Click Dip to immerse the sample in sodium sulphate solution.  
+- Set immersion time to 16–18 hours (default shown).  
+- Click Start Timer and wait for completion.  
+- Click Next.
 
-3. **STEP 3 — Immersion (Cycle 1 of 5)**
-   * Select the aggregate sample by clicking on it.
-   * Click "Dip" to immerse samples in sodium sulphate solution.
-   * Set immersion time: 16-18 hours at room temperature (default settings shown).
-   * Click "Start Timer" and wait for the timer animation to complete.
-   * Click "Next" when immersion completes.
+Step 4: Draining  
+- Click Drain to remove the solution from the samples.  
+- Wait for the draining animation to finish.  
+- Click Next.
 
-4. **STEP 4 — Draining**
-   * Click "Drain" to remove sodium sulphate solution from samples.
-   * Wait for the draining animation to finish.
-   * Click "Next Level" to proceed.
+Step 5: Oven Drying (First)  
+- Click the Oven to place samples inside.  
+- Set temperature to 110°C and time to 4–6 hours.  
+- Click Start Heating and wait for drying to complete.  
+- Click Next.
 
-5. **STEP 5 — Oven Drying (First)**
-   * Click on "Oven" to place samples inside.
-   * Set temperature = 110°C and duration = 4-6 hours.
-   * Click "Start Heating". Wait for the drying animation to complete.
-   * Click "Next" when drying finishes.
+Step 6: Cooling  
+- Click Remove from Oven to take out samples.  
+- Set cooling time to 2–4 hours at room temperature.  
+- Click Start Cooling Timer and wait.  
+- Click Next.
 
-6. **STEP 6 — Cooling**
-   * Click "Remove from Oven" to take out samples.
-   * Set cooling duration = 2-4 hours at room temperature.
-   * Click "Start Cooling Timer". Wait for the animation to complete.
-   * Click "Next Level" to continue.
+Step 7: Repeat Cycles  
+- Observe the message indicating remaining cycles.  
+- Click Repeat Cycle to repeat immersion, draining, drying, and cooling.  
+- Allow the simulator to complete all 5 cycles.  
+- Click Next after the final cycle.
 
-7. **STEP 7 — Repeat Cycles**
-   * A message will appear: "Cycle 1 complete. 4 cycles remaining."
-   * Click "Repeat Cycle" to automatically repeat Steps 3 to 6.
-   * The simulator will show cycle progress (2/5, 3/5, 4/5, 5/5).
-   * After 5 cycles complete, click "Next Level".
+Step 8: Final Washing  
+- Click Wash to clean the samples.  
+- Set water temperature to 43°C (shown on screen).  
+- Click Start Washing and wait for completion.  
+- Click Next.
 
-8. **STEP 8 — Final Washing**
-   * Click "Wash" to clean samples.
-   * Set water temperature = 43°C (shown on screen).
-   * Click "Start Washing". Wait for the animation to complete.
-   * Click "Next" to proceed.
+Step 9: Final Oven Drying  
+- Click the Oven to place washed samples inside.  
+- Set temperature to 110°C and duration to 18–24 hours.  
+- Click Start Heating and wait for final drying.  
+- Click Next.
 
-9. **STEP 9 — Final Oven Drying**
-   * Click on "Oven" to place washed samples inside.
-   * Set temperature = 110°C and duration = 18-24 hours.
-   * Click "Start Heating". Wait for the final drying animation.
-   * Click "Next Level" when complete.
+Step 10: Loss Measurement  
+- Select each aggregate fraction one by one.  
+- Click Sieve to pass samples through the specified sieve size.  
+- Note the passing weight displayed for each fraction.  
+- Click Calculate to compute the weighted average loss.  
+- Observe the soundness value displayed on screen.  
+- Click Next.
 
-10. **STEP 10 — Loss Measurement**
-    * Click on the 63-40mm sample icon to select it.
-    * Click "Sieve" to pass it through 31.5mm sieve.
-    * Note the passing weight displayed (Step 10a).
-    * Click on the 40-20mm sample and pass through 16mm sieve (Step 10b).
-    * Click on the 20-10mm sample and pass through 8mm sieve (Step 10c).
-    * Click on the 10-4.75mm sample and pass through 4mm sieve (Step 10d).
-    * Record all passing weights shown on screen.
-    * Click "Calculate" to compute weighted average loss.
-    * The simulator will display the soundness value (should be < 12% for good quality).
-    * Click "Next Level" to view results.
+Step 11: Results and Reset  
+- Review loss percentage for each fraction.  
+- Observe weighted average loss and soundness result (Pass or Fail).  
+- Click Reset to restart the experiment or Exit to finish.
 
-11. **Final — Results and Reset**
-    * Review the summary screen showing:
-      - Loss percentage for each fraction
-      - Weighted average loss
-      - Soundness classification (Pass/Fail)
-    * Click "Reset" to restart or "Exit" to finish.
+B. Soundness of Fine Aggregates
 
-### B. Soundness of Fine Aggregates
+Procedure
 
-#### Procedure
-
-**Follow identical steps (STEP 1 to STEP 11) as described above for coarse aggregates.**
-
-**Note:** The sieve sizes and sample fractions will automatically adjust for fine aggregates in the simulator interface.
+- Follow the same steps from Step 1 to Step 11 as described for coarse aggregates.  
+- Use the Fine Aggregate version of the simulation files.  
+- Perform identical interactions such as assembling sieves, immersion cycles, drying, washing, and calculations.  
+- Observe that sieve sizes, sample fractions, and displayed values are automatically adjusted for fine aggregates.
