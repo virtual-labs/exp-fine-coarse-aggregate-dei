@@ -1,3 +1,6 @@
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
 ### Theory
 
 **Soundness** is the property of aggregates to resist excessive volume changes and disintegration when subjected to weathering conditions.
@@ -14,36 +17,40 @@ The test simulates weathering action through salt crystallization in aggregate p
 
 #### Process Steps
 
-1. **Salt Penetration**: Saturated sulfate solution penetrates aggregate pores during immersion
-2. **Crystallization**: During drying (105-110°C), salt crystals form within pores
-3. **Expansion**: Upon re-immersion, salt crystals rehydrate and expand, creating internal pressure
-4. **Disintegration**: Repeated cycles cause cracking, splitting, and breakdown of weak aggregates
+1. **Salt Penetration**: Saturated sulfate solution penetrates aggregate pores during immersion  
+2. **Crystallization**: During drying (105–110 °C), salt crystals form within pores  
+3. **Expansion**: Upon re-immersion, salt crystals rehydrate and expand, creating internal pressure  
+4. **Disintegration**: Repeated cycles cause cracking, splitting, and breakdown of weak aggregates  
 
 #### Simulated Conditions
 
 This process simulates:
-- Freezing and thawing cycles
-- Wet-dry cycles
-- Marine environment exposure
-- Chemical attack from sulfate-bearing soils
+- Freezing and thawing cycles  
+- Wet-dry cycles  
+- Marine environment exposure  
+- Chemical attack from sulfate-bearing soils  
 
 #### Calculations
 
 **Individual Fraction Loss**
 
-Percentage Loss = (W₁ - W₂) / W₁ × 100
+$$
+\text{Percentage Loss} = \frac{W_1 - W_2}{W_1} \times 100
+$$
 
-Where:
-- W₁ = Initial weight of fraction before test (g)
-- W₂ = Final weight retained on specified sieve after test (g)
+Where:  
+- $W_1$ = Initial weight of fraction before test (g)  
+- $W_2$ = Final weight retained on specified sieve after test (g)  
 
 **Weighted Average Loss**
 
-Weighted Average Loss (%) = Σ(Pᵢ × Lᵢ) / 100
+$$
+\text{Weighted Average Loss (\%)} = \frac{\sum (P_i \times L_i)}{100}
+$$
 
-Where:
-- Pᵢ = Percentage of each size fraction in original sample
-- Lᵢ = Percentage loss of that size fraction
+Where:  
+- $P_i$ = Percentage of each size fraction in original sample  
+- $L_i$ = Percentage loss of that size fraction  
 
 #### Interpretation
 
