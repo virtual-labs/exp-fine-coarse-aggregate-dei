@@ -1,0 +1,89 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "What is the purpose of the soundness test for aggregates?",
+      "answers": {
+        "a": "To measure particle size",
+        "b": "To assess resistance to weathering ",
+        "c": "To determine specific gravity",
+        "d": "To measure abrasion resistance "
+      },
+      "explanations": {
+        "b": "To assess resistance to weathering"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which type of aggregate is typically subjected to the soundness test?",
+      "answers": {
+        "a": "Sand",
+        "b": "Gravel",
+        "c": "Both a and b",
+        "d": "Neither a nor b"
+      },
+      "explanations": {
+        "c": "Both a and b"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The soundness test involves subjecting aggregates to cycles of:",
+      "answers": {
+        "a": "Freezing and thawing ",
+        "b": "Heating and cooling ",
+        "c": "Compressive loading ",
+        "d": "ensile loading"
+      },
+      "explanations": {
+        "a": "Freezing and thawing "
+      },
+      "correctAnswer": "a",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "What does the loss of material in the soundness test indicate?",
+      "answers": {
+        "a": "Increased durability ",
+        "b": "Decreased durability ",
+        "c": "Improved gradation ",
+        "d": "Higher specific gravity "
+      },
+      "explanations": {
+        "b": "Decreased durability "
+      },
+      "correctAnswer": "b",
+      "difficulty": "intermediate "
+    },
+    {
+      "question": "Which standard method is commonly used for the soundness test of aggregates? ",
+      "answers": {
+        "a": "ASTM C29 ",
+        "b": "ASTM C136 ",
+        "c": "ASTM C88",
+        "d": "ASTM C88/C88M "
+      },
+      "explanations": {
+        "d": "ASTM C88/C88M"
+      },
+      "correctAnswer": "d",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "How does the soundness test help in assessing the quality of aggregates in concrete?",
+      "answers": {
+        "a": "It predicts workability ",
+        "b": "It indicates potential alkali-aggregate reactivity ",
+        "c": "It measures compressive strength directly ",
+        "d": "It assesses shrinkage characteristics "
+      },
+      "explanations": {
+        "b": "It indicates potential alkali-aggregate reactivity "
+      },
+      "correctAnswer": "b",
+      "difficulty": "advanced"
+    }
+  ]
+}

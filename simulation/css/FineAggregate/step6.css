@@ -1,0 +1,91 @@
+
+  .hero {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+  }
+  
+  #container {
+    height: 600px;
+    width: 800px;
+    background-color: rgba(220,229,236,255);
+    position: relative;
+  }
+  
+  .step1 {
+    padding: 30px;
+  }
+  
+  .projection {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 2.5rem;
+    letter-spacing: 0.1em;
+    font-size: 1.6rem;
+    background-color: rgb(20, 117, 228);
+    color: white;
+  }
+  
+  #arrow {
+    position: absolute;
+    top: 544px;
+    left: 612px;
+    z-index: 1;
+  }
+
+#arrow1 {
+    position: absolute;
+    top: 137px;
+    left: 651px;
+    z-index: 1;
+    transform: rotate(90deg);
+}
+  
+  #fourteen {
+    position: absolute;
+    left: 54px;
+    top: 150px;
+  }
+  
+  #fifteen {
+    position: absolute;
+    left: 54px;
+    top: 150px;
+  }
+  
+  #gif12 {
+    position: absolute;
+    left: 54px;
+    top: 150px;
+  }
+  
+#transbox12 {
+    position: absolute;
+    top: 179px;
+    left: 574px;
+    width: 200px;
+    height: 109px;
+     /* Added boundary */
+}
+  
+  #next {
+    visibility: hidden;
+    padding: 5px;
+  }
+  
+  .content28 button {
+    visibility: hidden;
+    position: absolute;
+    left: 662px;
+    top: 539px;
+    border: none;
+    width: 120px;
+    height: 40px;
+    cursor: pointer;
+    font-size: 15px;
+    background-color: rgb(20, 117, 228);
+    padding-top: 5px;
+    color: #fff;
+    border-radius: 4px;
+  }
