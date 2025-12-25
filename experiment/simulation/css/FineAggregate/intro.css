@@ -141,7 +141,7 @@
   
   nav {
     height: 75px;
-    /* border: 2px solid black; */
+    /*  */
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -149,7 +149,7 @@
   }
   
   .redline {
-    /* border: 2px solid black; */
+    /*  */
     height: 7px;
     width: full;
     background-color: #fd7e14;
