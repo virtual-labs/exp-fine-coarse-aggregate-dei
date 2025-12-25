@@ -60,7 +60,7 @@ assemBtnStep1.addEventListener("click", (evt) => {
 
     setTimeout(() => {
         instructionsStep1.textContent = "Pour the aggregates into the sieve stack."
-        stepNumber.textContent = "2.1";
+        stepNumber.textContent = "2";
         gif1Step1.style.visibility = "hidden";
         png2Step1.style.visibility = "visible";
         arr2Step1.style.visibility = "visible";
@@ -78,7 +78,7 @@ trans1Step1.addEventListener("click", (evt) => {
     setTimeout(()=>{
         gif2Step1.style.visibility = "hidden";
         instructionsStep1.textContent = "Cover the sieve stack with the lid and place it on the sieve shaker. Start the sieve shaker and wait for sometime."
-        stepNumber.textContent = "2.2";
+        stepNumber.textContent = "2";
         png3Step1.style.visibility = "visible";
         arr3Step1.style.visibility = "visible";
         trans2Step1.style.visibility = "visible";
@@ -133,7 +133,7 @@ trans5Step1.addEventListener("click", (evt) =>{
 
     setTimeout(()=>{
         instructionsStep1.textContent = "Remove the sieves from the sieve shaker and note down the aggregates retained on each sieve.";
-        stepNumber.textContent = "2.3";
+        stepNumber.textContent = "2";
         arr7Step1.style.visibility = "visible";
         trans6Step1.style.visibility = "visible";
     }, 5000);
