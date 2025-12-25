@@ -171,7 +171,6 @@
   }
   
   #transbox7 {
-    border: 2px solid black;
     height: 110px;
     width: 165px;
     position: absolute;
@@ -180,7 +179,6 @@
   }
   
   #transbox8 {
-    border: 2px solid black;
     height: 110px;
     width: 145px;
     position: absolute;
@@ -189,7 +187,6 @@
   }
   
   #transbox9 {
-    border: 2px solid black;
     height: 110px;
     width: 165px;
     position: absolute;
@@ -198,7 +195,6 @@
   }
   
   #transbox10 {
-    border: 2px solid black;
     height: 180px;
     width: 50px;
     position: absolute;
@@ -207,7 +203,6 @@
   }
 
   #transbox11 {
-    border: 2px solid black;
     height: 110px;
     width: 177px;
     position: absolute;
@@ -216,7 +211,6 @@
   }
 
   #transbox12{
-    border: 2px solid black;
     height: 110px;
     width: 177px;
     position: absolute;
@@ -225,7 +219,6 @@
   }
 
   #transbox13, #transbox14, #transbox15{
-    border: 2px solid black;
     height: 110px;
     width: 177px;
     position: absolute;

@@ -48,7 +48,7 @@
     position: absolute;
     left: 539px;
     top: 142px;
-    border: 1px solid black;
+    
   }
   #transbox17a {
     height: 121px;
@@ -56,7 +56,7 @@
     position: absolute;
     left: 491px;
     top: 142px;
-    border: 1px solid black;
+    
   }
 
   #transbox17b {
@@ -65,7 +65,7 @@
     position: absolute;
     left: 500px;
     top: 142px;
-    border: 1px solid black;
+    
   }
 
   #transbox17c {
@@ -74,7 +74,7 @@
     position: absolute;
     left: 500px;
     top: 162px;
-    border: 1px solid black;
+    
   }
   
   /* Button Style */
