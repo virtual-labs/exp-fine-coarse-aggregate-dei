@@ -33,7 +33,7 @@ This process simulates:
 - Marine environment exposure  
 - Chemical attack from sulfate-bearing soils  
 
-### Calculations
+### Formulas
 
 **Individual Fraction Loss**
 
