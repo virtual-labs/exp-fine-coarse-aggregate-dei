@@ -8,15 +8,11 @@
   };
 </script>
 
-### Theory
+### Introduction
 
 **Soundness** is the property of aggregates to resist excessive volume changes and disintegration when subjected to weathering conditions.
 
 This test determines the resistance to disintegration of aggregates by saturated solutions of sodium sulphate or magnesium sulphate. It furnishes information helpful in judging soundness when service records are not available.
-
-#### Purpose
-
-To evaluate aggregate's resistance to weathering and chemical attack, ensuring durability and quality in concrete construction.
 
 #### Mechanism
 
@@ -37,7 +33,7 @@ This process simulates:
 - Marine environment exposure  
 - Chemical attack from sulfate-bearing soils  
 
-#### Calculations
+### Calculations
 
 **Individual Fraction Loss**
 
@@ -52,13 +48,13 @@ Where:
 **Weighted Average Loss**
 
 $$
-\text{Weighted Average Loss (\%)} = \frac{\sum (P_i \times L_i)}{100}
+\text{Weighted Average Loss} = \frac{\sum (P_i \times L_i)}{100}
 $$
 
 Where:  
 - $P_i$ = Percentage of each size fraction in original sample  
 - $L_i$ = Percentage loss of that size fraction  
 
-#### Interpretation
+### Interpretation
 
 Lower percentage loss values indicate better soundness and greater resistance to weathering conditions. Specifications typically limit the weighted average loss to acceptable thresholds based on aggregate type and intended use.
