@@ -102,7 +102,7 @@ main{
 
 .img-zoom:hover img{
     transform: scale(1.5);
-}
+} */
 
 .exp-image-section, .exp-image-section-gifs{
     visibility: hidden;
@@ -110,7 +110,7 @@ main{
     width: 700px;
     top: 125px;
     left: 50px;
-} */
+}
 
 /* TRANSBOXES  */
 
