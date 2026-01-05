@@ -89,9 +89,19 @@ main{
 
 .instruments-img{
     position: absolute;
-    width: 700px;
+    width: 650px;
     left: 0px;
     top: 170px;
+    /* transition: transform .2s;
+    transform-origin: 65% 75%; */
+}
+
+/* .img-zoom{
+    overflow: hidden;
+}
+
+.img-zoom:hover img{
+    transform: scale(1.5);
 }
 
 .exp-image-section, .exp-image-section-gifs{
@@ -100,7 +110,7 @@ main{
     width: 700px;
     top: 125px;
     left: 50px;
-}
+} */
 
 /* TRANSBOXES  */
 
