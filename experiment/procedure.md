@@ -2,8 +2,7 @@
 • Click on the link for the test of the coarse aggregate
 
 <img src="images/0.png" alt="procedure" width="500"><br>
-
-#### **1. Sieve Assembly and Analysis**  
+  
 • Click Assemble to arrange the sieves in descending order with pan at the bottom. 
 
 <img src="images/1.1.png" alt="procedure" width="500"><br>
@@ -56,33 +55,63 @@
 
 <img src="images/3.9.png" alt="procedure" width="500"><br>
 
+• Click on the measuring cylinder to pour water for 16 to 18 hours.
+
 <img src="images/4.1.png" alt="procedure" width="500"><br>
+
+• Click on the wire bucket to drain the sodium sulphate solution from each of the aggregate samples.
 
 <img src="images/5.1.png" alt="procedure" width="500"><br>
 
+• Click on the sieve to place them in an oven for 4 to 6 hours at 110 degree celsius.
+
 <img src="images/6.1.png" alt="procedure" width="500"><br>
+
+• Click on the wire bucket after 5 cycles to wash samples.
 
 <img src="images/8.1.png" alt="procedure" width="500"><br>
 
+• Click on the sieve to place again in dry oven.
+
 <img src="images/9.1.png" alt="procedure" width="500"><br>
+
+• Click on the sieve to check loss weight.
 
 <img src="images/10.1.png" alt="procedure" width="500"><br>
 
+• Click on the weight to calculate weight.
+
 <img src="images/10.2.png" alt="procedure" width="500"><br>
+
+• Click on the sieve to calculate weight.
 
 <img src="images/10.3.png" alt="procedure" width="500"><br>
 
+• Click on the sieve to check the loss weight.
+
 <img src="images/10.4.png" alt="procedure" width="500"><br>
+
+• Click on the weight to calculate weight.
 
 <img src="images/10.5.png" alt="procedure" width="500"><br>
 
+• Click on the sieve to calculate weight.
+
 <img src="images/10.6.png" alt="procedure" width="500"><br>
+
+• Click on the sieve to check the loss weight.
 
 <img src="images/10.7.png" alt="procedure" width="500"><br>
 
+• Click on the weight to calculate weight.
+
 <img src="images/10.8.png" alt="procedure" width="500"><br>
 
+• Click on the sieve to calculate weight.
+
 <img src="images/10.9.png" alt="procedure" width="500"><br>
+
+• Click on the sieve to check the loss weight.
 
 <img src="images/10.10.png" alt="procedure" width="500"><br>
 
