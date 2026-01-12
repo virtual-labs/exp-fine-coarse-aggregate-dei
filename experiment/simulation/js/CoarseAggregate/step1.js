@@ -64,7 +64,7 @@ assemBtnStep1.addEventListener("click", (evt) => {
         gif1Step1.style.visibility = "hidden";
         png2Step1.style.visibility = "visible";
         arr2Step1.style.visibility = "visible";
-        trans1Step1.style.visibility = "hidden";
+        trans1Step1.style.visibility = "visible";
     }, 13000);
 });
 
@@ -72,16 +72,17 @@ trans1Step1.addEventListener("click", (evt) => {
     evt.target.style.visibility = "hidden";
     arr2Step1.style.visibility = "hidden";
     png2Step1.style.visibility = "hidden";
+    trans1Step1.style.visibility = "hidden";
 
     gif2Step1.style.visibility = "visible";
 
     setTimeout(()=>{
         gif2Step1.style.visibility = "hidden";
+        trans2Step1.style.visibility = "visible";
         instructionsStep1.textContent = "Cover the sieve stack with the lid and place it on the sieve shaker. Start the sieve shaker and wait for sometime."
         stepNumber.textContent = "2";
         png3Step1.style.visibility = "visible";
         arr3Step1.style.visibility = "visible";
-        trans2Step1.style.visibility = "hidden";
     }, 9000);
 });
 
@@ -89,12 +90,12 @@ trans2Step1.addEventListener("click", (evt) => {
     evt.target.style.visibility = "hidden";
     arr3Step1.style.visibility = "hidden";
     png3Step1.style.visibility = "hidden";
-
+    trans2Step1.style.visibility = "hidden";
     gif3Step1.style.visibility = "visible";
 
     setTimeout(() => {
         arr4Step1.style.visibility = "visible";
-        trans3Step1.style.visibility = "hidden";
+        trans3Step1.style.visibility = "visible";
     }, 2000);
 });
 
@@ -102,12 +103,13 @@ trans3Step1.addEventListener("click", (evt) => {
     evt.target.style.visibility = "hidden";
     arr4Step1.style.visibility = "hidden";
     gif3Step1.style.visibility = "hidden";
+    trans3Step1.style.visibility = "hidden";
 
     gif4Step1.style.visibility = "visible";
 
     setTimeout(() => {
         arr5Step1.style.visibility = "visible";
-        trans4Step1.style.visibility = "hidden";
+        trans4Step1.style.visibility = "visible";
     }, 5000);
 });
 
@@ -115,12 +117,13 @@ trans4Step1.addEventListener("click", (evt) => {
     evt.target.style.visibility = "hidden";
     arr5Step1.style.visibility = "hidden";
     gif4Step1.style.visibility = "hidden";
+    trans4Step1.style.visibility = "hidden";
 
     gif5Step1.style.visibility = "visible";
 
     setTimeout(() => {
         arr6Step1.style.visibility = "visible";
-        trans5Step1.style.visibility = "hidden";
+        trans5Step1.style.visibility = "visible";
     }, 10000);
 });
 
@@ -128,6 +131,7 @@ trans5Step1.addEventListener("click", (evt) =>{
     evt.target.style.visibility = "hidden";
     arr6Step1.style.visibility = "hidden";
     gif5Step1.style.visibility = "hidden";
+    trans5Step1.style.visibility = "hidden";
 
     gif6Step1.style.visibility = "visible";
 
@@ -135,7 +139,7 @@ trans5Step1.addEventListener("click", (evt) =>{
         instructionsStep1.textContent = "Remove the sieves from the sieve shaker and note down the aggregates retained on each sieve.";
         stepNumber.textContent = "2";
         arr7Step1.style.visibility = "visible";
-        trans6Step1.style.visibility = "hidden";
+        trans6Step1.style.visibility = "visible";
     }, 5000);
 });
 
@@ -143,6 +147,7 @@ trans6Step1.addEventListener("click", (evt) => {
     evt.target.style.visibility = "hidden";
     arr7Step1.style.visibility = "hidden";
     gif6Step1.style.visibility = "hidden"
+    trans6Step1.style.visibility = "hidden";
 
     png4Step1.style.visibility = "visible";
 
