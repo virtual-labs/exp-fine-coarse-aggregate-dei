@@ -70,6 +70,76 @@
       },
       "correctAnswer": "d",
       "difficulty": "advanced"
+    },
+    {
+      "question": "What is the maximum recommended soundness loss for coarse aggregates according to standard specifications?",
+      "answers": {
+        "a": "5%",
+        "b": "10%",
+        "c": "12%",
+        "d": "15%"
+      },
+      "explanations": {
+        "c": "12%"
+      },
+      "correctAnswer": "c",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "How does soundness loss affect the long-term performance of concrete structures?",
+      "answers": {
+        "a": "Increases compressive strength",
+        "b": "Reduces durability and service life",
+        "c": "Improves workability",
+        "d": "Enhances water resistance"
+      },
+      "explanations": {
+        "b": "Reduces durability and service life"
+      },
+      "correctAnswer": "b",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "In the soundness test, after each cycle of immersion and drying, what parameter is measured?",
+      "answers": {
+        "a": "Specific gravity",
+        "b": "Loss of material by weight",
+        "c": "Particle size distribution",
+        "d": "Absorption capacity"
+      },
+      "explanations": {
+        "b": "Loss of material by weight"
+      },
+      "correctAnswer": "b",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Which aggregates would fail the soundness test and be unsuitable for concrete construction?",
+      "answers": {
+        "a": "Those with low soundness loss values",
+        "b": "Those with soundness loss exceeding the standard limit",
+        "c": "Those with high density values",
+        "d": "Those with good particle shape"
+      },
+      "explanations": {
+        "b": "Those with soundness loss exceeding the standard limit"
+      },
+      "correctAnswer": "b",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Why is it important to test both fine and coarse aggregates for soundness in the same concrete mix?",
+      "answers": {
+        "a": "To reduce the cost of testing",
+        "b": "To ensure overall durability of the final concrete product",
+        "c": "To simplify the testing procedure",
+        "d": "To increase the workability of concrete"
+      },
+      "explanations": {
+        "b": "To ensure overall durability of the final concrete product"
+      },
+      "correctAnswer": "b",
+      "difficulty": "advanced"
     }
   ]
 }
