@@ -121,5 +121,4 @@
 <img src="images/11.png" alt="procedure" width="500"><br>
 
 • Follow the same steps from Step 1 to Step 11 as described for coarse aggregates. 
-
 <img src="images/12.png" alt="procedure" width="500"><br>

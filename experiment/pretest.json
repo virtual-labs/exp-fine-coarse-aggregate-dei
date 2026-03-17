@@ -84,6 +84,62 @@
       },
       "correctAnswer": "b",
       "difficulty": "advanced"
+    },
+    {
+      "question": "Which solution is commonly used as a reagent in the soundness test for aggregates?",
+      "answers": {
+        "a": "Sodium chloride solution",
+        "b": "Sodium sulfate or magnesium sulfate solution",
+        "c": "Hydrochloric acid solution",
+        "d": "Distilled water only"
+      },
+      "explanations": {
+        "b": "Sodium sulfate or magnesium sulfate solution"
+      },
+      "correctAnswer": "b",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "What is the standard number of cycles typically required in the ASTM C88 soundness test?",
+      "answers": {
+        "a": "5 cycles",
+        "b": "10 cycles",
+        "c": "15 cycles",
+        "d": "20 cycles"
+      },
+      "explanations": {
+        "c": "15 cycles"
+      },
+      "correctAnswer": "c",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "What is the acceptable maximum percentage loss of material in the soundness test for aggregates to be considered durable?",
+      "answers": {
+        "a": "Less than 5%",
+        "b": "Less than 10%",
+        "c": "Less than 15%",
+        "d": "Less than 20%"
+      },
+      "explanations": {
+        "b": "Less than 10%"
+      },
+      "correctAnswer": "b",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "Why is magnesium sulfate sometimes preferred over sodium sulfate in the soundness test?",
+      "answers": {
+        "a": "It is less expensive",
+        "b": "It produces a more severe weathering simulation",
+        "c": "It requires fewer cycles",
+        "d": "It eliminates the need for heating"
+      },
+      "explanations": {
+        "b": "It produces a more severe weathering simulation"
+      },
+      "correctAnswer": "b",
+      "difficulty": "advanced"
     }
   ]
 }
