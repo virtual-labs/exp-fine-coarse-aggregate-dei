@@ -12,7 +12,7 @@
 
 **Soundness** is the property of aggregates to resist excessive volume changes and disintegration when subjected to weathering conditions.
 
-This test determines the resistance to disintegration of aggregates by saturated solutions of sodium sulphate or magnesium sulphate. It furnishes information helpful in judging soundness when service records are not available.
+This test determines the resistance to disintegration of aggregates caused by saturated solutions of sodium sulphate or magnesium sulphate. It furnishes information helpful in judging soundness when service records are not available.
 
 #### Mechanism
 
@@ -57,4 +57,4 @@ Where:
 
 ### Interpretation
 
-Lower percentage loss values indicate better soundness and greater resistance to weathering conditions. Specifications typically limit the weighted average loss to acceptable thresholds based on aggregate type and intended use.
+Lower percentage loss values indicate better soundness and greater resistance to weathering conditions. Specifications typically limit the weighted average loss to acceptable thresholds based on aggregate type and intended use. For most concrete applications, the maximum recommended weighted average loss is about 5% for fine aggregates and about 12% for coarse aggregates.
