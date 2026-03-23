@@ -8,6 +8,7 @@
   <link rel="icon" href="../../images/CoarseAggregate/step8/favicon.ico" />
   <link rel="stylesheet" href="../../css/CoarseAggregate/step8.css" />
    <link rel="stylesheet" href="responsive.css">
+  <link rel="stylesheet" href="../../css/main-content.css" />
 </head>
 
 <body>
@@ -92,7 +93,12 @@
 
           <!----------------buttons------------->
 
-          <button id="next" onclick="parent.location='./step9.html'">Next</button>
+                        <button class="next-exp" id="next">Next</button>
+              <script>
+                document.getElementById('next').addEventListener('click', function () {
+                  window.location.href = 'step9.html';
+                });
+              </script>
 
         </div>
       </div>

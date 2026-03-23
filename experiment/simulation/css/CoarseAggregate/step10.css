@@ -34,13 +34,20 @@
     z-index: 1;
   }
 
-  #arrow2 {
+  #arrow1 {
     position: absolute;
-    top: 192px;
-    left: 439px;
+    top: 152px;
+    left: 470px;
     z-index: 1;
   }
   
+    #arrow2 {
+    position: absolute;
+    top: 152px;
+    left: 450px;
+    z-index: 1;
+  }
+
   /* Transbox Style */
   #transbox17 {
     height: 121px;

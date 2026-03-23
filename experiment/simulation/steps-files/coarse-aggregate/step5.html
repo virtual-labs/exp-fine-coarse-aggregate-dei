@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Virtual Labs</title>
     <link rel="icon" href="../../images/CoarseAggregate/step5/favicon.ico" />
+    <link rel="stylesheet" href="../../css/main-content.css" />
     <link rel="stylesheet" href="../../css/CoarseAggregate/step5.css" />
      <link rel="stylesheet" href="responsive.css">
   </head>
@@ -97,7 +98,12 @@
 
               <!----------------buttons------------->
               
-                 <button id="next" onclick="parent.location='./step6.html'">Next</button>
+              <button class="next-exp" id="next">Next</button>
+              <script>
+                document.getElementById('next').addEventListener('click', function () {
+                  window.location.href = 'step6.html';
+                });
+              </script>
 
                 </div>
             </div>

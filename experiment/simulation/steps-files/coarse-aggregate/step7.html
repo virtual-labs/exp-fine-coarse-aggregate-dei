@@ -8,6 +8,7 @@
   <link rel="icon" href="../images/problem 1/favicon.ico" />
   <link rel="stylesheet" href="../../css/CoarseAggregate/step7.css" />
   <link rel="stylesheet" href="responsive.css">
+  <link rel="stylesheet" href="../../css/main-content.css" />
 </head>
 
 <body>
@@ -48,7 +49,12 @@
 
                 <!----------------buttons------------->
 
-                <button id="next" style="visibility: visible;" onclick="parent.location='./step8.html'">Next</button>
+                <button class="next-exp" id="next">Next</button>
+                <script>
+                  document.getElementById('next').addEventListener('click', function () {
+                    window.location.href = 'step8.html';
+                  });
+                </script>
 
               </div>
             </div>

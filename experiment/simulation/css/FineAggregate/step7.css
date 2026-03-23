@@ -25,6 +25,10 @@
   .step1 {
     padding: 30px;
   }
+
+  #next {
+    visibility: visible;
+  }
   
   #arrow {
     position: absolute;
