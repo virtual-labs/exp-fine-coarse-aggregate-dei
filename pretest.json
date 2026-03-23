@@ -1,0 +1,145 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "What is the purpose of the soundness test for aggregates?",
+      "answers": {
+        "a": "To measure particle size",
+        "b": "To assess resistance to weathering ",
+        "c": "To determine specific gravity",
+        "d": "To measure abrasion resistance "
+      },
+      "explanations": {
+        "b": "To assess resistance to weathering"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which type of aggregate is typically subjected to the soundness test?",
+      "answers": {
+        "a": "Sand",
+        "b": "Gravel",
+        "c": "Both a and b",
+        "d": "Neither a nor b"
+      },
+      "explanations": {
+        "c": "Both a and b"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The soundness test involves subjecting aggregates to cycles of:",
+      "answers": {
+        "a": "Freezing and thawing ",
+        "b": "Heating and cooling ",
+        "c": "Compressive loading ",
+        "d": "ensile loading"
+      },
+      "explanations": {
+        "a": "Freezing and thawing "
+      },
+      "correctAnswer": "a",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "What does the loss of material in the soundness test indicate?",
+      "answers": {
+        "a": "Increased durability ",
+        "b": "Decreased durability ",
+        "c": "Improved gradation ",
+        "d": "Higher specific gravity "
+      },
+      "explanations": {
+        "b": "Decreased durability "
+      },
+      "correctAnswer": "b",
+      "difficulty": "intermediate "
+    },
+    {
+      "question": "Which standard method is commonly used for the soundness test of aggregates? ",
+      "answers": {
+        "a": "ASTM C29 ",
+        "b": "ASTM C136 ",
+        "c": "ASTM C88",
+        "d": "ASTM C88/C88M "
+      },
+      "explanations": {
+        "d": "ASTM C88/C88M"
+      },
+      "correctAnswer": "d",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "How does the soundness test help in assessing the quality of aggregates in concrete?",
+      "answers": {
+        "a": "It predicts workability ",
+        "b": "It indicates potential alkali-aggregate reactivity ",
+        "c": "It measures compressive strength directly ",
+        "d": "It assesses shrinkage characteristics "
+      },
+      "explanations": {
+        "b": "It indicates potential alkali-aggregate reactivity "
+      },
+      "correctAnswer": "b",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "Which solution is commonly used as a reagent in the soundness test for aggregates?",
+      "answers": {
+        "a": "Sodium chloride solution",
+        "b": "Sodium sulfate or magnesium sulfate solution",
+        "c": "Hydrochloric acid solution",
+        "d": "Distilled water only"
+      },
+      "explanations": {
+        "b": "Sodium sulfate or magnesium sulfate solution"
+      },
+      "correctAnswer": "b",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "What is the standard number of cycles typically required in the ASTM C88 soundness test?",
+      "answers": {
+        "a": "5 cycles",
+        "b": "10 cycles",
+        "c": "15 cycles",
+        "d": "20 cycles"
+      },
+      "explanations": {
+        "c": "15 cycles"
+      },
+      "correctAnswer": "c",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "What is the acceptable maximum percentage loss of material in the soundness test for aggregates to be considered durable?",
+      "answers": {
+        "a": "Less than 5%",
+        "b": "Less than 10%",
+        "c": "Less than 15%",
+        "d": "Less than 20%"
+      },
+      "explanations": {
+        "b": "Less than 10%"
+      },
+      "correctAnswer": "b",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "Why is magnesium sulfate sometimes preferred over sodium sulfate in the soundness test?",
+      "answers": {
+        "a": "It is less expensive",
+        "b": "It produces a more severe weathering simulation",
+        "c": "It requires fewer cycles",
+        "d": "It eliminates the need for heating"
+      },
+      "explanations": {
+        "b": "It produces a more severe weathering simulation"
+      },
+      "correctAnswer": "b",
+      "difficulty": "advanced"
+    }
+  ]
+}
