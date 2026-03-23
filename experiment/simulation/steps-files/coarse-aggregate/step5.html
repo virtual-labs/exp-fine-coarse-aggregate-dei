@@ -97,7 +97,12 @@
 
               <!----------------buttons------------->
               
-                 <button id="next" onclick="parent.location='./step6.html'">Next</button>
+              <button class="next-exp" id="next">Next</button>
+              <script>
+                document.getElementById('next').addEventListener('click', function () {
+                  window.location.href = 'step6.html';
+                });
+              </script>
 
                 </div>
             </div>
