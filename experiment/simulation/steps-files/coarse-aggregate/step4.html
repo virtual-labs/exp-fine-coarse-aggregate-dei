@@ -1,24 +1,26 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Virtual Labs</title>
-    <link rel="stylesheet" href="../../css/CoarseAggregate/step4.css" />
-     <link rel="stylesheet" href="responsive.css">
-  </head>
-  <body>
-    
-<body style="margin: 0; font-family: Arial; color: #000">
-  <!-- Wrapper for responsiveness -->
-  <div class="sim-wrapper">
-    <div class="simulation-container">
-      
-      
 
-    <!-- Header Area -->
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Virtual Labs</title>
+  <link rel="stylesheet" href="../../css/CoarseAggregate/step4.css" />
+  <link rel="stylesheet" href="responsive.css">
+</head>
 
-   <!-- <nav>
+<body>
+
+  <body style="margin: 0; font-family: Arial; color: #000">
+    <!-- Wrapper for responsiveness -->
+    <div class="sim-wrapper">
+      <div class="simulation-container">
+
+
+
+        <!-- Header Area -->
+
+        <!-- <nav>
     <div > 
       <img class="logo1" src="../../images/header.png" alt="vlabs logo"/>
     </div>
@@ -28,60 +30,71 @@
     </div>
   </nav> -->
 
-  <!---red line---->
+        <!---red line---->
 
-  <!-- <div class="redline"></div> -->
+        <!-- <div class="redline"></div> -->
 
 
-    <!-- gray line -->
+        <!-- gray line -->
 
-    <!-- <div class="line"></div>   -->
+        <!-- <div class="line"></div>   -->
 
-       <!-- container box -->
+        <!-- container box -->
 
-       <div class="hero" >
-        <div id="container">
-          <h2 class="projection">Soundness test of aggregates</h2> 
+        <div class="hero">
+          <div id="container">
+            <h2 class="projection">Soundness test of aggregates</h2>
             <div class="step1">
-                <div class="texts">
-                    <p style="font-size: 17px; position: absolute; top:45px;left: 10px;">
-                      <b style="font-size:16px;">STEP</b> 
-                      <span style="font-size: 18px;font-weight: 600; border-radius: 5px; background-color: rgb(20,117,228);color:white;padding: 2px 5px;">4</span>
-                     <span style="font-size: 18px;"> Dip the coarse aggregate samples in sodium sulphate solution for 16 to 18 hours at room temperature</i> 
-                    </p>
-                </div>
-                <div class="content28">
+              <div class="texts">
+                <p style="font-size: 17px; position: absolute; top:45px;left: 10px;">
+                  <b style="font-size:16px;">STEP</b>
+                  <span
+                    style="font-size: 18px;font-weight: 600; border-radius: 5px; background-color: rgb(20,117,228);color:white;padding: 2px 5px;">4</span>
+                  <span style="font-size: 18px;"> Dip the coarse aggregate samples in sodium sulphate solution for 16 to
+                    18 hours at room temperature</i>
+                </p>
+              </div>
+              <div class="content28">
 
-              <!----------------arrows--------------->
+                <!----------------arrows--------------->
 
-              <img id="arrow" src="../../images/arrow_right.gif" style="visibility: hidden ;" height="30px">
-              <img id="arrow1" src="../../images/arrow_right.gif" style="visibility: visible ;" height="30px">
+                <img id="arrow" src="../../images/arrow_right.gif" style="visibility: hidden ;" height="30px">
+                <img id="arrow1" src="../../images/arrow_right.gif" style="visibility: visible ;" height="30px">
 
-              <!----------------images------------->
-       
-              <img id="twelve" src="../../images/CoarseAggregate/step4/png1-step4.png"  height=390px" width=700px style="visibility: visible;" >  
+                <!----------------images------------->
 
-              <img id="thirteen" src="../../images/CoarseAggregate/step4/png2-step4.png"  height=390px" width=700px style="visibility: hidden;" >   
+                <img id="twelve" src="../../images/CoarseAggregate/step4/png1-step4.png" height=390px" width=700px
+                  style="visibility: visible;">
 
-              <!----------------gifs------------->
+                <img id="thirteen" src="../../images/CoarseAggregate/step4/png2-step4.png" height=390px" width=700px
+                  style="visibility: hidden;">
+
+                <!----------------gifs------------->
 
 
-              <img id="gif11" src="../../images/CoarseAggregate/step4/gif1-step4.gif" style="visibility: hidden;" height="390px" width=700px > 
+                <img id="gif11" src="../../images/CoarseAggregate/step4/gif1-step4.gif" style="visibility: hidden;"
+                  height="390px" width=700px>
 
-      
-              <!----------------transbox------------->
 
-              <img id="transbox11" src="../../images/transbox.png" style="visibility: visible;" onclick="gif4a()">
+                <!----------------transbox------------->
 
-              <!----------------buttons------------->
-              
-                 <button id="next" style="visibility: hidden;" onclick="parent.location='./step5.html'">Next</button>
+                <img id="transbox11" src="../../images/transbox.png" style="visibility: visible;" onclick="gif4a()">
 
-                </div>
+                <!----------------buttons------------->
+
+                <button class="next-exp" id="nextToStep5">Next</button>
+                <script>
+                  document.getElementById('nextToStep5').addEventListener('click', function () {
+                    window.location.href = 'step5.html';
+                  });
+                </script>
+
+              </div>
             </div>
           </div>
         </div>
       </div>
       <script src="../../js/CoarseAggregate/step4.js"></script>
   </body>
+
 </html>
